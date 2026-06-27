@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.env
+.venv/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Operating System junk
+.DS_Store
+Thumbs.db
+
+# PyCharm specific files
+.idea/
+
+# Logs
+*.log
+
+.slingshot
+
+.langgraph_api
